@@ -8,7 +8,7 @@ education:
   - course: BSc in Biology
     institution: Indiana University
     year: 2011
-email: "waruther@gmail.com"
+email: waruther@gmail.com
 highlight_name: false
 interests:
 - Rangelands

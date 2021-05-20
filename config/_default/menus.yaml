@@ -7,13 +7,13 @@ main:
   - name: Projects
     url: '#projects'
     weight: 10
-  - name: Talks
+  - name: Presentations
     url: '#talks'
     weight: 20
   - name: Publications
     url: '#featured'
     weight: 30
-  - name: Courses
+  - name: Teaching
     url: courses/
     weight: 40
   - name: Contact

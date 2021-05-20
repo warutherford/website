@@ -2,8 +2,8 @@
 header:
   caption: ""
   image: ""
-title: Courses
+title: Teaching
 type: page
 ---
 
-I teach the following courses:
+Most of my teaching experience is from providing Data Science workshops:
