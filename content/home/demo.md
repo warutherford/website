@@ -10,7 +10,7 @@ active: false
 headless: false
 
 # Order that this section appears on the page.
-weight: 15
+weight: 0
 
 title: Hugo Academic Theme Demo
 subtitle:
