@@ -20,24 +20,24 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: waruther@gmail.com
+phone: 317 437 86 96
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
+  street: 1040 N. Campbell Ave
+  city: Tucson
+  region: AZ
+  postcode: '85719'
   country: United States
   country_code: US
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-office_hours:
+  latitude: '32.2319'
+  longitude: '-110.9501'
+directions: false
+office_hours: false
   - 'Monday 10:00 to 13:00'
   - 'Wednesday 09:00 to 10:00'
 appointment_url: 'https://calendly.com'
-contact_links:
+contact_links: false
   - icon: twitter
     icon_pack: fab
     name: DM Me
