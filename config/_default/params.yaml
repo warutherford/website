@@ -34,8 +34,6 @@ coordinates:
   longitude: '-110.9501'
 directions: false
 office_hours: false
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
 appointment_url: false
 contact_links: 
   - icon: ''
