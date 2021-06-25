@@ -1,6 +1,5 @@
 ---
-bio: 
-- My research interests include range science, applied plant ecology, and remote sensing.
+bio: My research interests include range science, applied plant ecology, data science, and remote sensing.
 education:
   courses:
   - course: PhD in Natural Resources
