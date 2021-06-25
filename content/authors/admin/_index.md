@@ -1,10 +1,11 @@
 ---
-bio: My research interests include range science, applied plant ecology, and remote sensing.
+bio: 
+- My research interests include range science, applied plant ecology, and remote sensing.
 education:
   courses:
   - course: PhD in Natural Resources
     institution: University of Arizona
-    year: Current (est. Spring 2022)
+    year: Current
   - course: BSc in Biology
     institution: Indiana University
     year: 2011
@@ -39,6 +40,6 @@ superuser: true
 title: W. Austin Rutherford
 ---
 
-Austin Rutherford is a ...
+Austin Rutherford is a rangeland ecologist.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Rutherford_CV_2021.pdf" "newtab" >}}CV{{< /staticref >}}.
