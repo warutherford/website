@@ -1,5 +1,5 @@
 ---
-bio: My research interests include range science, applied plant ecology, data science, and remote sensing.
+bio: 
 education:
   courses:
   - course: PhD in Natural Resources
@@ -33,7 +33,7 @@ social:
   icon_pack: fab
   link: https://github.com/warutherford
 - icon: linkedin
-  icon_pack: fablink
+  icon_pack: fab
   link: https://www.linkedin.com/in/w-austin-rutherford-6185493b/
 superuser: true
 title: W. Austin Rutherford
