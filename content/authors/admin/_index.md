@@ -39,6 +39,6 @@ superuser: true
 title: W. Austin Rutherford
 ---
 
-Austin Rutherford is a rangeland ecologist.
+Austin Rutherford is a dryland rangeland ecologist and data scientist.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Rutherford_CV_2021.pdf" "newtab" >}}CV{{< /staticref >}}.

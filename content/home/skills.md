@@ -16,23 +16,23 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 100%
+- description:
   icon: seedling
-  icon_pack: emoji
+  icon_pack: fas
   name: Dryland Plant Ecology
-- description: 100%
-  icon: desktop_computer
-  icon_pack: emoji
+- description:
+  icon: desktop
+  icon_pack: fas
   name: Decision Support Tool Creation
-- description: 100%
-  icon: camera
-  icon_pack: emoji
+- description: 
+  icon: satellite
+  icon_pack: fas
   name: Remote Sensing
-- description: 100%
+- description: 
   icon: r-project
   icon_pack: fab
   name: R
-- description: 100%
+- description: 
   icon: chart-line
   icon_pack: fas
   name: Statistics
